@@ -6,5 +6,7 @@ Below you will find some information on how to perform common tasks.<br>
 (https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 Deploy locally on terminal with:
+
 npm install
+
 npm start
